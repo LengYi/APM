@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppKey</key>
+	<string>23405698</string>
+	<key>Channel</key>
+	<string></string>
+	<key>CrashReporter</key>
+	<dict>
+		<key>Enabled</key>
+		<true/>
+		<key>Debug</key>
+		<true/>
+		<key>DetectsMainThreadBlock</key>
+		<true/>
+		<key>MainThreadBlockInterval</key>
+		<integer>5</integer>
+	</dict>
+	<key>NetworkSurveyor</key>
+	<dict>
+		<key>Enabled</key>
+		<true/>
+		<key>Debug</key>
+		<false/>
+		<key>NeedsNSURLConnection</key>
+		<true/>
+		<key>NeedsNSURLSession</key>
+		<true/>
+		<key>NeedsCFNetwork</key>
+		<false/>
+	</dict>
+</dict>
+</plist>
